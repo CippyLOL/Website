@@ -1,0 +1,186 @@
+
+html {
+    margin: 0;
+    padding: 0;
+    background-color: #F2F4D1;
+
+}
+
+.row {
+    position: relative;
+    margin: 0 auto;
+    font-size: 17px;
+}
+.nav-bar {
+    list-style: none;
+    text-align: center;
+
+}
+.nav-bar li {
+    display: inline-block;
+}
+
+.nav-bar li a {
+    color: #5E6073;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-family: 'Rubik';
+}
+
+
+
+.container1 {
+    color: #5E6073;
+    line-height: 15px;
+    font-family: 'Oxygen';
+    position: relative;
+    text-align: center;
+    /* top: 50%; left: 50%; */
+    /*margin-top: -50px; */
+    /* margin-left: -100px; */
+    /* transform: translate(-50%, -50%); */
+
+}
+
+.container1 .para1 {
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.icon {
+    height: 300px;
+    width: 300px;
+    margin-top: 150px;
+    background-color:  #B2D3BE;
+    border-radius: 50%;
+     
+}
+
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #5E6073;
+   color: #89A3B2;
+   text-align: center;
+   font-family: 'Rubik';
+}
+
+.container2 {
+    color: #5E6073;
+    line-height: 10px;
+    font-family: 'Rubik';
+    position: relative;
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+.bicycle {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:  #B2D3BE;
+    border-radius: 50%;   
+
+}
+
+.img-box {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 260px;
+    width: 310px;
+    padding: 35px 0px 10px 0px;
+    background-color: #B2D3BE;
+    border-radius: 50%;
+
+}
+
+.macaroni {
+    height: 220px;
+    width: 220px;
+    /* margin-bottom: 70px; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+      
+}
+
+.tool {
+    height: 240px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h2 {
+    font-family: 'Rubik';
+    text-align: center;
+    color: #5E6073;
+    font-size: 30px;
+
+}
+
+.leathercraft {
+    height: 500px;
+}
+
+.about-p {
+    font-family: 'Oxygen';
+    text-align: center;
+    color: #5E6073;
+    line-height: 5px;
+    
+}
+
+.home-p {
+    font-family: 'Oxygen';
+    text-align: center;
+    color: #5E6073;
+    line-height: 5px;
+
+}
+
+.container3 {
+    color: #5E6073;
+    line-height: 10px;
+    font-family: 'Rubik';
+    position: relative;
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+.form {
+    color: #5E6073;
+    line-height: 20px;
+    font-family: 'Rubik';
+    position: relative;
+    text-align: center;
+    /* padding-top: 15px; */
+
+}
+
+input {
+    margin-bottom: 10px;
+
+}
+
+iframe {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
